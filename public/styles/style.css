@@ -1,0 +1,12 @@
+.home {
+    background-image: url(/images/spotify-background.jpeg);
+}
+
+#buttonSearch {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: #e5236c;
+}
